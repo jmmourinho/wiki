@@ -4,18 +4,18 @@ Ligações
 
 ## DANÇAS
 
-* Lisboa Em Tango (a minha escola de Tango Argentino. Ver também RuiyInes no FB)
-* Tango Na Rua (milongas grátis)
-* Festival Andanças (se me conhecem já ouviram falar...)
-* Danças Tradicionais .net (fórum sobre danças trad.)
-* TradBalls (bailes tradicioais - valsas e mazurkas)
+* [Lisboa Em Tango](http://lisboaemtango.blogspot.com/) (a minha escola de Tango Argentino. Ver também [RuiyInes](http://www.ruiyines.com/) no FB)
+* [Tango Na Rua](http://tangonarua.blogspot.pt/) (milongas grátis)
+* [Festival Andanças](http://www.pedexumbo.com/index.php?option=com_content&view=article&id=185&Itemid=127&lang=pt) (se me conhecem já ouviram falar...)
+* [Danças Tradicionais .net]() (fórum sobre danças trad.)
+* [TradBalls](http://tradballs.blogspot.pt/) (bailes tradicioais - valsas e mazurkas)
 
 
 ## GRUPOS UNIVERSITÁRIOS
 
 * GASIST - Grupo de Acção Social do IST
 * CAES - Centro Académico Edith Stein
-* GASIST
+* GASIST - Grupo de Acção Social do IST
 
 
 ## LINUX
