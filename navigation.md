@@ -1,1 +1,1 @@
-[Start](index.md) [jmmourinho](http://jmmourinho.github.io)
+[Start](index.md) [Ligações](ligacoes.md) [jmmourinho](http://jmmourinho.github.io)
